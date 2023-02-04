@@ -7,8 +7,8 @@
 
  - ASP.NET
  - C#
- - Razor
  - Bootstrap
+ - SQL Server
 
 ## Functionalities
 ### Creating User Accounts
